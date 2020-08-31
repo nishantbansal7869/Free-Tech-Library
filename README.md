@@ -5,12 +5,12 @@ This is an open-source library containing free courses, ebooks and documents lin
 
 [![Build Status](https://travis-ci.org/nishantbansal7869/Free-Tech-Library.svg?branch=master)](https://travis-ci.com/github/nishantbansal7869/Free-Tech-Library)
 
-###### Code Of Conduct
+# Code Of Conduct
 
-Please got through the code of conduct and follow them before adding to the repository.
+Please go through the code of conduct and follow them before adding to the repository.
 
 [code of conduct](code_of_conduct.md)
 
-###### License
+# License
 
 This project is licensed under [CC BY License](https://creativecommons.org/licenses/by-sa/4.0/)
