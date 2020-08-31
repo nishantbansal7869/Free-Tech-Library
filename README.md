@@ -3,12 +3,12 @@ This is an open-source library containing free courses, ebooks and documents lin
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 
-###### Code Of Conduct
+# Code Of Conduct
 
 Please go through the code of conduct and follow them before adding to the repository.
 
 [code of conduct](code_of_conduct.md)
 
-###### License
+# License
 
 This project is licensed under [CC BY License](https://creativecommons.org/licenses/by-sa/4.0/)
