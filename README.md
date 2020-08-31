@@ -11,6 +11,6 @@ Please go through the code of conduct and follow them before adding to the repos
 
 [code of conduct](code_of_conduct.md)
 
-###### License
+# License
 
 This project is licensed under [CC BY License](https://creativecommons.org/licenses/by-sa/4.0/)
