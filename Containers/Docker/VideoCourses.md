@@ -1,4 +1,3 @@
-dfd
 ## Udemy
 
 * **Docker Essentials** (https://www.udemy.com/course/docker-essentials/)
