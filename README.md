@@ -7,8 +7,8 @@ This is an open-source library containing free courses, ebooks and documents lin
 
 Please got through the code of conduct and follow them before adding to the repository.
 
-code of conduct (code_of_conduct.md)
+[code of conduct](code_of_conduct.md)
 
 ###### License
 
-Each file in the repository is licensed under [CC BY License](https://creativecommons.org/licenses/by-sa/4.0/)
+This project is licensed under [CC BY License](https://creativecommons.org/licenses/by-sa/4.0/)
