@@ -7,10 +7,6 @@ This is an open-source library containing free courses, ebooks and documents lin
 <<<<<<< Updated upstream
 
 # Code Of Conduct
-=======
->>>>>>> Stashed changes
-
-###### Code Of Conduct
 
 Please got through the code of conduct and follow them before adding to the repository.
 
