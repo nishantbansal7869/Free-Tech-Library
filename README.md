@@ -3,6 +3,8 @@ This is an open-source library containing free courses, ebooks and documents lin
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 
+[![Build Status](https://travis-ci.org/nishantbansal7869/Free-Tech-Library.svg?branch=master)](https://travis-ci.com/github/nishantbansal7869/Free-Tech-Library)
+
 ###### Code Of Conduct
 
 Please got through the code of conduct and follow them before adding to the repository.
