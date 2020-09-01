@@ -33,6 +33,8 @@ By contributing you agree to respect contributor [code of conduct](code_of_condu
 
 12. Only after the checks have passed, the PR will be merged.
 
+13. Use PascalCasing to name folders and files.
+
 # Formatting
 
 1. All lists are in .md format.
