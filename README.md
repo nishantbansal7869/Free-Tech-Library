@@ -5,9 +5,7 @@ This is an open-source library containing free courses, ebooks and documents lin
 
 # Code Of Conduct
 
-Please go through the code of conduct and follow them before adding to the repository.
-
-[code of conduct](code_of_conduct.md)
+Please go through the [code of conduct](code_of_conduct.md) and follow them before adding to the repository.
 
 # License
 
